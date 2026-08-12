@@ -1,9 +1,9 @@
-# Odda
+# Oddit
 
 Registro de apuestas deportivas. Aplicación web, sin instalación,
 que funciona igual en el móvil y en el ordenador.
 
-**→ [angelvs5.github.io/Odda](https://angelvs5.github.io/Odda/)**
+**→ [angelvs5.github.io/Odda](https://angelvs5.github.io/Oddit/)**
 
 ---
 
