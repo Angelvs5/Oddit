@@ -3,13 +3,13 @@
 Registro de apuestas deportivas. Aplicación web, sin instalación,
 que funciona igual en el móvil y en el ordenador.
 
-**→ [angelvs5.github.io/Odda](https://angelvs5.github.io/Oddit/)**
+**→ [angelvs5.github.io/oddit](https://angelvs5.github.io/Oddit/)**
 
 ---
 
 ## Qué hace
 
-Odda no acepta apuestas ni mueve dinero. Lleva el cuaderno: anotas lo
+oddit no acepta apuestas ni mueve dinero. Lleva el cuaderno: anotas lo
 que juegas, y la app calcula el rendimiento real con las métricas que
 importan — yield, acierto, rachas, caída máxima.
 
@@ -29,7 +29,7 @@ lo que le convence a su propio bankroll.
 Cualquiera puede enseñar capturas de las apuestas que gana. Lo difícil
 es demostrar que enseñas también las que pierdes.
 
-En un canal de Odda:
+En un canal de oddit:
 
 - El encuentro es obligatorio, y solo se publica sobre partidos que no
   han empezado
